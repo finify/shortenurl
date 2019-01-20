@@ -1,0 +1,22 @@
+body{
+    font-size:20px;
+}
+
+.text-input{
+    width:400px;
+    padding:10px;
+    font-size:20px;
+}
+
+
+.container{
+    padding-top:40px;
+}
+
+.submit-bt{
+    padding:10px;
+    font-size:20px;
+    background-color:rgb(8, 70, 70);
+    color:white;
+    border:0px;
+}
